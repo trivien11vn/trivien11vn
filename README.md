@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trivien11vn&theme=highcontrast" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=trivien11vn&v=1)](https://git.io/streak-stats)
